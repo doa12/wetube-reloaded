@@ -56,7 +56,7 @@
 <hr/>
 
 <h3>📅 Week 6</h3>
-<h5>✔️Mon ~ Sun | Assignment # 21 | Project</h5>
+<h5>✔️Mon ~ Sat | Assignment # 21 | Project</h5>
 
 <br />
 <hr/>
