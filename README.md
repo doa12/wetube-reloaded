@@ -1,4 +1,4 @@
-# 🚩[18th] Wetube | Challenge Assignment
+# 🚩[17th] Wetube | Challenge Assignment
 
 - https://nomadcoders.co/wetube-challenge
 - 2022.10.24 ~ 2022.12.04
